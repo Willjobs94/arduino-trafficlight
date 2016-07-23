@@ -1,0 +1,5 @@
+TrafficLight	KEYWORD1
+TurnRedLightOn	KEYWORD2
+TurnYellowLightOn	KEYWORD2
+TurnGreenLightOn	KEYWORD2
+ShutDown	KEYWORD2
